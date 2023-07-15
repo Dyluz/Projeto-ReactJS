@@ -21,7 +21,7 @@ Pontos importantes: apresentar no carrinho de compra a quantidade de cada produt
 
 Este repositório foi criado para fins de estudo. Tentei reproduzir da melhor forma que pude com exemplos de vídeos que assisti pois estou iniciando.
 
-## Para este projeto é necessário a seguinte instalação:  npm install boxicons --save
+## Para este projeto é necessário a seguinte instalação:  npm install     e       npm install boxicons --save
 
 📚O que você achou desse projeto?
 
